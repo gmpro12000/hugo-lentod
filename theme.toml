@@ -63,6 +63,6 @@ min_version = "0.146.0"
 # If porting an existing theme
 [original]
   name = "Paper"
-  author = "nanxiaobei"
-  homepage = "https://github.com/nanxiaobei"
-  repo = "https://github.com/nanxiaobei/hugo-paper/"
+  author = "lentod"
+  homepage = "https://github.com/lentod"
+  repo = "https://github.com/lentod/hugo-paper/"
